@@ -1,0 +1,86 @@
+body {
+  background-color: #ECE5C7;
+}
+
+img {
+  margin: 0;
+  position: relative;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  
+}
+
+h2 {
+  font-family: sans-serif;
+
+}
+
+h3 {
+  font-family: sans-serif; 
+}
+
+p {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+li {
+  font-family: sans-serif;
+}
+
+th {
+  font-family: sans-serif;
+}
+
+tr {
+  font-family: sans-serif;
+}
+
+td {
+  font-family: sans-serif;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: justify;
+  line-height: 2;
+}
+
+.img-austrohungaro {
+  width: 25%;
+  float: justify;
+  margin-right: 30px;
+}
+
+.img-marcha {
+  width: 25%;
+  float:justify;
+  margin-right: 30px;
+}
+
+.img-vitor {
+  width: 25%;
+  float:justify;
+  margin-right: 30px;
+}
+
+.img-duce {
+  width: 100%;
+  float:justify;
+  margin-right: 30px;
+}
+
+.img-greve {
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.img-papa {
+  width: 100%;
+  float:left;
+  margin-right: 30px;
+}
